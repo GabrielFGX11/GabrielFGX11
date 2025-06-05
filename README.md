@@ -63,14 +63,6 @@ Hoje, sigo trabalhando no meu projeto pessoal:
 
 ---
 
-### 📫 Como me encontrar
-
-- 📧 **gabrielfgoncalves58@gmail.com**
-- 📱 **(12) 98132-5296**
-- 🏡 **São José dos Campos – SP**
-
----
-
 <p align="center">
   <em>“Bem-aventurados os pobres de espírito, porque deles é o Reino dos céus!” – Mt 5, 3</em>  
 </p>
