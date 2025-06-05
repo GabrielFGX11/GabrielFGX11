@@ -11,7 +11,7 @@
 Sou o **Gabriel Ferreira Gonçalves**, tenho 20 anos e sou natural de **São José dos Campos/SP**.  
 Sou um **católico de muita fé** e carrego comigo valores como **amor, respeito e dedicação**. Desde pequeno, fui fascinado por **tecnologia**, e foi através dos **videogames** que esse amor se fortaleceu.
 
-Comecei jogando muito — desde os clássicos do **Orkut** e **PlayStation 2** até **Xbox** e jogos **mobile**. Com o tempo, meu interesse se transformou em vocação, e decidi que queria **criar meus próprios jogos**.
+Comecei jogando muito — desde jogos do Orkut como **Mini Fazenda** e **Segredos do Mar**, até clássicos do **PlayStation 2**, **Xbox** e **jogos mobile**. Com o tempo, meu interesse se transformou em vocação, e decidi que queria **criar meus próprios jogos**.
 
 ---
 
