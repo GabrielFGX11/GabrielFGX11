@@ -72,7 +72,7 @@ Hoje, sigo trabalhando no meu projeto pessoal:
 ---
 
 <p align="center">
-  <em>“Tudo posso naquele que me fortalece.” – Filipenses 4:13</em>  
+  <em>“Bem-aventurados os pobres de espírito, porque deles é o Reino dos céus!” – Mt 5, 3</em>  
 </p>
 
 <p align="center">
